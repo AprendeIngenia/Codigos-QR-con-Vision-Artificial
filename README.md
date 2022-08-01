@@ -6,6 +6,8 @@ Hola chicos en este repositorio encontraras el codigo fuente en Python para que 
 
 - En el archivo Lectura.py encontraras el codigo en python con el que puedes realizar la lectura de todos los codigo en tiempo real con Vision artificial, este procedimiento te lo explico en [Video](https://youtu.be/_iumFrHfV5U).
 
+- En el archivo requirements.txt encontraras todas las librerias utilizadas para ejecutar este proyecto, recuerda que fue ejecutado con Python 3.7.
+
 - Recuerda que en este [Video](https://youtu.be/rCf9N6OiMeo) realizamos una implementacion de los codigos QR para el control de horario de usuarios.
 
 
