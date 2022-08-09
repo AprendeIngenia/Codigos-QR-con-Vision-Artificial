@@ -1,0 +1,5 @@
+PyQRCode==1.2.1
+opencv-python==4.6.0.66
+numpy==1.21.6
+pyzbar==0.1.9
+openpyxl==3.0.10
